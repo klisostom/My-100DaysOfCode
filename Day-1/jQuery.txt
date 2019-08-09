@@ -1,0 +1,38 @@
+# Introduction to jQuery:
+
+Passed
+Learn How Script Tags and Document Ready Work
+Passed
+Target HTML Elements with Selectors Using jQuery
+Passed
+Target Elements by Class Using jQuery
+Passed
+Target Elements by id Using jQuery
+Passed
+Delete Your jQuery Functions
+Passed
+Target the Same Element with Multiple jQuery Selectors
+Passed
+Remove Classes from an Element with jQuery
+Passed
+Change the CSS of an Element Using jQuery
+Passed
+Disable an Element Using jQuery
+Passed
+Change Text Inside an Element Using jQuery
+Passed
+Remove an Element Using jQuery
+Passed
+Use appendTo to Move Elements with jQuery
+Passed
+Clone an Element Using jQuery
+Passed
+Target the Parent of an Element Using jQuery
+Passed
+Target the Children of an Element Using jQuery
+Passed
+Target a Specific Child of an Element Using jQuery
+Passed
+Target Even Elements Using jQuery
+Passed
+Use jQuery to Modify the Entire Page
