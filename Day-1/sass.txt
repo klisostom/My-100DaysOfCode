@@ -1,0 +1,20 @@
+# Introduction to the Sass Challenges:
+
+Passed
+Store Data with Sass Variables
+Passed
+Nest CSS with Sass
+Passed
+Create Reusable CSS with Mixins
+Passed
+Use @if and @else to Add Logic To Your Styles
+Passed
+Use @for to Create a Sass Loop
+Passed
+Use @each to Map Over Items in a List
+Passed
+Apply a Style Until a Condition is Met with @while
+Passed
+Split Your Styles into Smaller Chunks with Partials
+Passed
+Extend One Set of CSS Styles to Another Element
