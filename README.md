@@ -1,2 +1,2 @@
 # My-100DaysOfCode
-My journay
+My journay in **freeCodeCamp**
