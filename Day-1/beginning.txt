@@ -1,2 +1,65 @@
 #100DaysOfCode Bootstrap: Add Font Awesome Icons to our Buttons #freeCodeCamp
 https://twitter.com/klis_sousa/status/1159826588050968576
+
+#Introduction to the Bootstrap Challenges
+Use Responsive Design with Bootstrap Fluid Containers
+Passed
+Make Images Mobile Responsive
+Passed
+Center Text with Bootstrap
+Passed
+Create a Bootstrap Button
+Passed
+Create a Block Element Bootstrap Button
+Passed
+Taste the Bootstrap Button Color Rainbow
+Passed
+Call out Optional Actions with btn-info
+Passed
+Warn Your Users of a Dangerous Action with btn-danger
+Passed
+Use the Bootstrap Grid to Put Elements Side By Side
+Passed
+Ditch Custom CSS for Bootstrap
+Passed
+Use a span to Target Inline Elements
+Passed
+Create a Custom Heading
+Passed
+Add Font Awesome Icons to our Buttons
+Passed
+Add Font Awesome Icons to all of our Buttons
+Passed
+Responsively Style Radio Buttons
+Passed
+Responsively Style Checkboxes
+Passed
+Style Text Inputs as Form Controls
+Passed
+Line up Form Elements Responsively with Bootstrap
+Passed
+Create a Bootstrap Headline
+Passed
+House our page within a Bootstrap container-fluid div
+Passed
+Create a Bootstrap Row
+Passed
+Split Your Bootstrap Row
+Passed
+Create Bootstrap Wells
+Passed
+Add Elements within Your Bootstrap Wells
+Passed
+Apply the Default Bootstrap Button Style
+Passed
+Create a Class to Target with jQuery Selectors
+Passed
+Add id Attributes to Bootstrap Elements
+Passed
+Label Bootstrap Wells
+Passed
+Give Each Element a Unique id
+Passed
+Label Bootstrap Buttons
+Passed
+Use Comments to Clarify Code
