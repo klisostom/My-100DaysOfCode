@@ -1,0 +1,14 @@
+# Introduction to the React Challenges:
+
+Passed
+Create a Simple JSX Element
+Passed
+Create a Complex JSX Element
+Passed
+Add Comments in JSX
+Passed
+Render HTML Elements to the DOM
+Passed
+Define an HTML Class in JSX
+Passed
+Learn About Self-Closing JSX Tags
