@@ -12,3 +12,18 @@ Passed
 Define an HTML Class in JSX
 Passed
 Learn About Self-Closing JSX Tags
+Create a Stateless Functional Component
+Passed
+Create a React Component
+Passed
+Create a Component with Composition
+Passed
+Use React to Render Nested Components
+Passed
+Compose React Components
+Passed
+Render a Class Component to the DOM
+Passed
+Write a React Component from Scratch
+Passed
+Pass Props to a Stateless Functional Component
