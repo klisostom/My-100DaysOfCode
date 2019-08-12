@@ -1,0 +1,11 @@
+Pass an Array as Props
+Passed
+Use Default Props
+Passed
+Override Default Props
+Passed
+Use PropTypes to Define the Props You Expect
+Passed
+Access Props Using this.props
+Passed
+Review Using Props with Stateless Functional Components
