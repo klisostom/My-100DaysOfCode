@@ -1,0 +1,41 @@
+Create a Stateful Component
+Passed
+Render State in the User Interface
+Passed
+Render State in the User Interface Another Way
+Passed
+Set State with this.setState
+Passed
+Bind 'this' to a Class Method
+Passed
+Use State to Toggle an Element
+Passed
+Write a Simple Counter
+Passed
+Create a Controlled Input
+Passed
+Create a Controlled Form
+Passed
+Pass State as Props to Child Components
+Passed
+Pass a Callback as Props
+Passed
+Use the Lifecycle Method componentWillMount
+Passed
+Use the Lifecycle Method componentDidMount
+Passed
+Add Event Listeners
+Passed
+Manage Updates with Lifecycle Methods
+Passed
+Optimize Re-Renders with shouldComponentUpdate
+Passed
+Introducing Inline Styles
+Passed
+Add Inline Styles in React
+Passed
+Use Advanced JavaScript in React Render Method
+Passed
+Render with an If/Else Condition
+Passed
+Use && for a More Concise Conditional
