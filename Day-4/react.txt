@@ -39,3 +39,5 @@ Passed
 Render with an If/Else Condition
 Passed
 Use && for a More Concise Conditional
+Passed
+Render Conditionally from Props
