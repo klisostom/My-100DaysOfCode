@@ -1,0 +1,9 @@
+Create a Redux Store
+Passed
+Get State from the Redux Store
+Passed
+Define a Redux Action
+Passed
+Define an Action Creator
+Passed
+Dispatch an Action Event
