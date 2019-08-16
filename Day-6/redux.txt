@@ -1,0 +1,15 @@
+Handle an Action in the Store
+Passed
+Use a Switch Statement to Handle Multiple Actions
+Passed
+Use const for Action Types
+Passed
+Register a Store Listener
+Passed
+Combine Multiple Reducers
+Passed
+Send Action Data to the Store
+Passed
+Use Middleware to Handle Asynchronous Actions
+Passed
+Write a Counter with Redux
