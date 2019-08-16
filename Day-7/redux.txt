@@ -1,0 +1,7 @@
+Never Mutate State
+Passed
+Use the Spread Operator on Arrays
+Passed
+Remove an Item from an Array
+Passed
+Copy an Object with Object.assign
