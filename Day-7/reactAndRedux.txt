@@ -1,0 +1,4 @@
+Passed
+Getting Started with React Redux
+Passed
+Manage State Locally First
