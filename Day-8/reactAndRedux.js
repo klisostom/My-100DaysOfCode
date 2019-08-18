@@ -7,3 +7,5 @@ Passed
 Map Dispatch to Props
 Passed
 Connect Redux to React
+Passed
+Connect Redux to the Messages App
