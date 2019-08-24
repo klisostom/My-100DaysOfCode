@@ -1,0 +1,6 @@
+The Good Parts of JavaScript and the Web, Douglas Crockford.
+
+- Programming Style and your Brain
+1. Two System
+2. Visual Processing
+3. JavaScript: Good Parts & Bad Parts
