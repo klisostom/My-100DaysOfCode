@@ -1,0 +1,5 @@
+Studing Redux e History of JavaScript with Douglas Crockford:
+
+"Doug spends some time talking about how JavaScript was created. He includes the companies involved
+in its creation as well as the history behind its naming. Doug also briefly talks about the 
+evolution of ECMAScript and the differences between versions."
