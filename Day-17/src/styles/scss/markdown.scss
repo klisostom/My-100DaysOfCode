@@ -1,0 +1,46 @@
+$fontFamily: Georgia,
+'Times New Roman',
+Times,
+serif;
+
+$width: 100%;
+
+@mixin borderShadow {
+    //shadow
+    $webkitBoxShadow: 1px 3px 13px 0px rgba(126, 199, 247, 1);
+    $mozBoxShadow: 1px 3px 13px 0px rgba(126, 199, 247, 1);
+    $boxShadow: 1px 3px 13px 0px rgba(126, 199, 247, 1);
+
+    //border
+    $borderRadius: 0px 0px 0px 0px;
+    $mozBorderRadius: 0px 0px 0px 0px;
+    $webkitBorderRadius: 0px 0px 0px 0px;
+    $border: 1px solid #0a7385;
+}
+
+.editor {
+    min-height: 20%;
+    font-family: $fontFamily;
+    margin-bottom: 1em;
+    margin-top: 5em;
+
+    @include borderShadow;
+}
+
+.preview {
+    min-height: 15em;
+    font-family: $fontFamily;
+    background-color: #f2f7f8;
+
+    @include borderShadow;
+}
+
+textarea {
+    width: $width;
+    margin-top: 0%;
+    border: none;
+}
+
+body {
+    background-color: #FAD9A4;
+}
