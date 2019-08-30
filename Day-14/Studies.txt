@@ -1,0 +1,9 @@
+# The Good Parts of JavaScript and the Web, Douglas Crockford.
+
+- Programming Style
+- Composition
+- Scope
+- Bad Style
+- Code Writtne for Performance
+
+# Studing Redux
