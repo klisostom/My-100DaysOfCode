@@ -1,0 +1,41 @@
+.meuCanvas {
+  background-color: aqua;
+}
+
+.planoDeFundo {
+  background: transparent;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+@mixin principal {
+  background: transparent;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.principal {
+  @include principal;
+}
+
+.planoDeFundo {
+  @include principal;
+}
+
+.player_mov {
+  @include principal;
+}
+
+.background {
+  z-index: -2;
+}
+
+.main {
+  z-index: -1;
+}
+
+.ship {
+  z-index: 0;
+}

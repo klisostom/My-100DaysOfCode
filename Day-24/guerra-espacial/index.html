@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jogo: Guerra do Espaço</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+<body >
+
+    <!-- Esse canvas será usado inicialmente para o plano de fundo do jogo -->
+    <canvas id="planoDeFundo" class="planoDeFundo" width="948" height="360">
+        Seu navegador não suporta o recurso de Canvas. Por favor, tente novamente com um navegador diferente.
+    </canvas>
+    <!-- Canvas para os inimigos e para os poderes que eles lançarem -->
+    <canvas id="principal" class="principal" width="948" height="360">
+        Seu navegador não suporta o recurso de Canvas. Por favor, tente novamente com um navegador diferente.
+    </canvas>
+    <!-- Canvas para limitar o quadrante de movimentação do player -->
+    <canvas id="player_mov" class="player_mov" width="948" height="360">
+        Seu navegador não suporta o recurso de Canvas. Por favor, tente novamente com um navegador diferente.
+    </canvas>
+
+    <script src="js/global.js"></script>
+</body>
+
+</html>
